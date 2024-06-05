@@ -97,7 +97,7 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: https://github.com/tyronegnz/saas/tree/master
+1. Put your GitHub link for your demonstration software here: https://github.com/tyronegnz/saas
 
 2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/FcuS17qkY5Q
 
