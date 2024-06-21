@@ -12,7 +12,7 @@ export default async function Home() {
     redirect("/dashboard");
   }
   return (
-    <section className="flex items-center justify-center bg-background h-[90vh] bg-gradient-to-b from-blue-50 to-blue-400">
+    <section className="flex items-center justify-center bg-background h-[90vh]">
       <div className="relative items-center w-full px-5 py-12 mx-auto lg:px-16 max-w-7xl md:px-12">
         <div className="max-w-3xl mx-auto text-center">
           <div>
