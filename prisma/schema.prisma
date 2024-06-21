@@ -13,7 +13,7 @@ model user {
   name             String?
   email            String  @unique
   stripeCustomerId String? @unique
-  colorScheme      String  @default("theme-pink")
+  colorScheme      String  @default("theme-rose")
   Notes            Note[]
 }
 
